@@ -19,6 +19,7 @@ const iconTypes = [
   'createPopulationJob',
   'regressionJob',
   'createSingleMetricJob',
+  'createCategorizationJob',
 ];
 
 export default () => (
